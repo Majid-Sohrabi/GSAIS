@@ -3,7 +3,6 @@ function AddPaths(Str)
 addpath([Str , 'Algorithm']);
 addpath([Str , 'Algorithm/Clustering']);
 addpath([Str , 'Algorithm/Crossover']);
-addpath([Str , 'Algorithm/MaskMutation']);
 addpath([Str , 'Algorithm/Mutation']);
 
 %% Problem directory

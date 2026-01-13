@@ -13,7 +13,5 @@ switch(Index)
         Ans=Mutation_Random(q,Model);
     case 5
         Ans=Mutation_BigSwap(q,Model);
-    % case 6
-    % Ans=Mutation_Perturbation(q,Model);  
 end
 end

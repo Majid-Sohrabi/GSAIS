@@ -21,7 +21,6 @@ Info.cluster_sizes = 4;
 Info.Npop=150;    % Population size
 Info.PCrossover=0.6;   % Crossover probability
 Info.PMutation=0.1;
-% List_alpha_eps=[1.3 1.5 1.7];
 Info.alpha_eps=0.5;
 Info.MinPts=10;
 
